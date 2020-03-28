@@ -14,7 +14,7 @@ Script for your discord bot that gives you opportunity to delete all channels on
 
 # Easy install
 If you dont want to do full installing below and run .py script, you can download .exe file packed with pyinstaller on this link: https://yadi.sk/d/SGptbTF_jMKhUg
-This way give you opportunity to ignore ALL requierements. All requierement libraries already in this exe 
+This way give you opportunity to ignore ALL requierements. All requierement libraries and python already in this exe 
 
 # Installing
 Requierments:
