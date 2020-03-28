@@ -1,4 +1,4 @@
-pip install colorama
-pip install termcolor
-pip install discord
-pip install asyncio
+colorama
+termcolor
+discord
+asyncio
