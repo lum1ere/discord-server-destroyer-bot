@@ -18,7 +18,7 @@ This way give you opportunity to ignore ALL requierements. All requierement libr
 
 # Installing
 Requierements:
-- **python3** https://www.python.org/downloads/   (add to PATH mush have!)
+- **python3** https://www.python.org/downloads/   (adding to PATH must have!)
 - **pip**
 
 After installing of requirments:
