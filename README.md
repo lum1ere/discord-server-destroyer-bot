@@ -12,6 +12,10 @@ Script for your discord bot that gives you opportunity to delete all channels on
 7) paste your invite link to browser and select server.
 8) congratulations!! you added your bot to server
 
+# Easy install
+If you dont want to do full installing and run .py script, you can download .exe file packed with pyinstaller on this link: https://yadi.sk/d/SGptbTF_jMKhUg
+This way give you opportunity to ignore ALL requierements. All requierement libraries already in this exe 
+
 # Installing
 Requierments:
 - **python3** https://www.python.org/downloads/   (add to PATH mush have!)
@@ -26,8 +30,7 @@ pip install discord
 pip install asyncio
 ```
 Then Download *DSCDestroyer.py* from **this** github repo
-# Easy install
-If you dont to do full installing and run .py script, you can download .exe file packed with pyinstaller on this link: https://yadi.sk/d/SGptbTF_jMKhUg
+
 # Using
 Open it with double mouseclick
 
