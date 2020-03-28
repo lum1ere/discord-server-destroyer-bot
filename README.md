@@ -26,6 +26,8 @@ pip install discord
 pip install asyncio
 ```
 Then Download *DSCDestroyer.py* from **this** github repo
+# Easy install
+If you dont to do full installing and run .py script, you can download .exe file packed with pyinstaller on this link: https://yadi.sk/d/SGptbTF_jMKhUg
 # Using
 Open it with double mouseclick
 
