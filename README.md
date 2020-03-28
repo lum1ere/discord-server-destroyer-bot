@@ -17,7 +17,7 @@ If you dont want to do full installing below and run .py script, you can downloa
 This way give you opportunity to ignore ALL requierements. All requierement libraries and python already in this exe 
 
 # Installing
-Requierments:
+Requierements:
 - **python3** https://www.python.org/downloads/   (add to PATH mush have!)
 - **pip**
 
