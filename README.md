@@ -29,7 +29,7 @@ pip install colorama
 pip install discord
 pip install asyncio
 ```
-Then Download *DSCDestroyer.py* from **this** github repo
+Then Download *DSDBot.py* from **this** github repo
 
 # Using
 Open it with double mouseclick
