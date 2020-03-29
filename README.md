@@ -1,4 +1,4 @@
-# discord-serverdestroyerbot
+# discord-server-destroyer-bot
 Script for your discord bot that gives you opportunity to delete all channels on discord server.
 # Bot creation
 **You must have admin access to invite bots on your server**
