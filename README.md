@@ -1,5 +1,5 @@
 # discord-server-destroyer-bot
-Script for your discord bot that gives you opportunity to delete all channels on discord server.
+Script for your discord bot that gives you opportunity to delete all channels, delete roles and ban all users on discord server.
 # Bot creation
 **You must have admin access to invite bots on your server**
 
