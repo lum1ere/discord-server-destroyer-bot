@@ -29,7 +29,8 @@ pip install colorama
 pip install discord
 pip install asyncio
 ```
-Then Download *DSDBot.py* or *DSDB2.py* from **this** github repo
+Then Download *DSDBot.py* or *DSDB2.py* from **this** github repo.
+
 DSDB2 (second variate of attack) deletes all roles then deletes all channels. After that it creates **hello from us** channel with porn links. Ath the end it creates 500 channels and 250 roles with your custom names. Change names and links you can in *DSDB2.py*.
 
 # Using
