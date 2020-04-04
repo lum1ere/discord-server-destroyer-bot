@@ -13,7 +13,7 @@ Script for your discord bot that gives you opportunity to delete all channels, d
 8) congratulations!! you added your bot to server
 
 # Easy install
-If you dont want to do full installing below and run .py script, you can download .exe file packed with pyinstaller on this link: https://yadi.sk/d/P1GCXwyQFVzJ-A
+If you dont want to do full installing below and run .py script, you can download .exe file packed with pyinstaller on this link: https://yadi.sk/d/P1GCXwyQFVzJ-A - first version
 This way give you opportunity to ignore ALL requierements. All requierement libraries and python already in this exe 
 
 # Installing
@@ -29,7 +29,8 @@ pip install colorama
 pip install discord
 pip install asyncio
 ```
-Then Download *DSDBot.py* from **this** github repo
+Then Download *DSDBot.py* or *DSDB2.py* from **this** github repo
+DSDB2 (second variate of attack) deletes all roles then deletes all channels. After that it creates **hello from us** channel with porn links. Ath the end it creates 500 channels and 250 roles with your custom names. Change names and links you can in *DSDB2.py*.
 
 # Using
 Open it with double mouseclick
